@@ -51,7 +51,7 @@ Response:
   "products": [ ... ]
 }
 ```
-![Get All Products]([image-url-here](https://github.com/Santhosh1015/Basic_APIs/blob/main/api_basci.png?raw=true))
+![Get All Products]([(https://github.com/Santhosh1015/Basic_APIs/blob/main/api_basci.png?raw=true)])
 
 ### 2. Get Single Product
 ```http
