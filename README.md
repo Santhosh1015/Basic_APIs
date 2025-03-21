@@ -65,7 +65,7 @@ Response:
   "product": { ... }
 }
 ```
-![Get Single Product](image-url-here)
+![Get Single Product](https://github.com/Santhosh1015/Basic_APIs/blob/main/api_basic2.png?raw=true)
 
 ### 3. Create Product
 ```http
@@ -79,24 +79,15 @@ Request Body:
   "description": "Product Description"
 }
 ```
-![Create Product](image-url-here)
+![Create Product](https://github.com/Santhosh1015/Basic_APIs/blob/main/api_basic3.png?raw=true)
 
-### 4. Update Product
-```http
-PUT /api/v1/product/:id
-```
-![Update Product](image-url-here)
 
-### 5. Delete Product
-```http
-DELETE /api/v1/product/:id
-```
-![Delete Product](image-url-here)
 
 ## License
 This project is licensed under the MIT License.
 
----
+By
+Santhosh R
 
-Let me know if you’d like to add anything, like authentication or order management! 🚀
+---
 
